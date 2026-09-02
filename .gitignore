@@ -1,0 +1,62 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+*.tsbuildinfo
+__pycache__/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local environment
+.env*
+
+# deployment and generated files
+.vercel
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/
+/media-archive/originals/
+/media-archive/evidence_manifest_private.json
+/artifact-work/tesseract-portable/
+/artifact-work/tesseract-installer.exe
+/artifact-work/tesseract.nupkg
+/artifact-work/paddle-ocr-env/
+/artifact-work/paddle-models/
+/artifact-work/ocr-v2-checkpoint.json
+/artifact-work/ocr-v2-results/
+/site-build.tar.gz
+/ocr_source_search_checkpoint.json
+/public/clippings/
+/app/records.json
+/app/clippings.json
+/app/source-verification.json
+!/app/records.json
+!/app/clippings.json
+!/app/source-verification.json
+credentials*.json
+service_account*.json
+*.db
+*.sqlite*
