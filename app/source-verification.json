@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-14T08:49:53+00:00",
+  "generatedAt": "2026-09-21T08:51:20+00:00",
   "methodology": "Automated URL reachability and page-title agreement audit. This does not replace editorial review of article contents.",
   "summary": {
-    "totalRecords": 4,
-    "sourceCheckedRecords": 4,
-    "withPublicUrl": 4,
+    "totalRecords": 5,
+    "sourceCheckedRecords": 5,
+    "withPublicUrl": 5,
     "withoutPublicUrl": 0,
-    "reachablePublicUrls": 4,
+    "reachablePublicUrls": 5,
     "headlineConfirmed": 0,
-    "manualReviewRequired": 4,
+    "manualReviewRequired": 5,
     "categories": {
-      "discovery-link": 4
+      "discovery-link": 5
     }
   },
   "records": {
@@ -39,6 +39,19 @@
       "contentType": "text/html",
       "pageTitle": "Google News",
       "titleMatchScore": 0.164
+    },
+    "GN-23FD284B6118A2": {
+      "recordId": "GN-23FD284B6118A2",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa00yVDlZb2ZoVGx6WWs0OWVqc1hCeHgzQ0paYVRva0g3aE1sNXh2ZXp1c0xzVnhXWDk1al9Ed2ZmX1RQSzlSQUZzc3hQbWJ1ZlB0SmZ1RnpOVHYwQWdEemhrOTB4QVNiblpwQ2R4OFdNMU96UHJBTUJPNWhBVDF0aktEaXJyVlltZkFj?oc=5",
+      "category": "discovery-link",
+      "displayLabel": "Google News discovery",
+      "explanation": "Google News exposed this item; the publisher article still requires editorial verification.",
+      "checkedAt": "2026-09-21T08:51:20+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa00yVDlZb2ZoVGx6WWs0OWVqc1hCeHgzQ0paYVRva0g3aE1sNXh2ZXp1c0xzVnhXWDk1al9Ed2ZmX1RQSzlSQUZzc3hQbWJ1ZlB0SmZ1RnpOVHYwQWdEemhrOTB4QVNiblpwQ2R4OFdNMU96UHJBTUJPNWhBVDF0aktEaXJyVlltZkFj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "contentType": "text/html",
+      "pageTitle": "Google News",
+      "titleMatchScore": 0.085
     },
     "GN-82D63A64218B24": {
       "recordId": "GN-82D63A64218B24",
