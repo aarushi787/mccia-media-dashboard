@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-21T08:51:20+00:00",
+  "generatedAt": "2026-09-28T09:40:18+00:00",
   "methodology": "Automated URL reachability and page-title agreement audit. This does not replace editorial review of article contents.",
   "summary": {
-    "totalRecords": 5,
-    "sourceCheckedRecords": 5,
-    "withPublicUrl": 5,
+    "totalRecords": 7,
+    "sourceCheckedRecords": 7,
+    "withPublicUrl": 7,
     "withoutPublicUrl": 0,
-    "reachablePublicUrls": 5,
+    "reachablePublicUrls": 7,
     "headlineConfirmed": 0,
-    "manualReviewRequired": 5,
+    "manualReviewRequired": 7,
     "categories": {
-      "discovery-link": 5
+      "discovery-link": 7
     }
   },
   "records": {
@@ -78,6 +78,32 @@
       "contentType": "text/html",
       "pageTitle": "Google News",
       "titleMatchScore": 0.14
+    },
+    "GN-B522E7DF61ABB5": {
+      "recordId": "GN-B522E7DF61ABB5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2FFZkRMODBZNnNzS3BSeTNVZEJydUFtbDhTZWlCYWkyOFNpSUpZMldJNWVNMHNEc3dISTExc3FIdVhxSzhRclZRRExwNC1qV1M4LVBubDBvNkRrTnFwaG9NVnlRdGh6bFhzUWo0Uk9mM0hqMHZWUlNMZWhGZjE4dlRXeFlETlQ5Y1p4ZHlUSnp1UmdNMVR1RzBFeGs2Y3E1Q19F0gGoAUFVX3lxTE55Y0lEQW55Q3BxSVBHMVhLNXB5dy1KYlVLYjNsNENMbjJhYkFVMVdHdXRxLWZUSnFzdG9xeFpPSm5PZTVMaDk4ZG1aQ2R3bmxxd0tLR0ZuRU1RSWl2cU9pRE1Bc3NGTXRLT0hRNEpqSHdkOGlBckY1T0xLV2FZYUt0dkpiNzFPOVlIWmdNMExNcW9QZ2Y1VDJCOF82NEdDd1Y1aVRuY0ZtVw?oc=5",
+      "category": "discovery-link",
+      "displayLabel": "Google News discovery",
+      "explanation": "Google News exposed this item; the publisher article still requires editorial verification.",
+      "checkedAt": "2026-09-28T09:40:18+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2FFZkRMODBZNnNzS3BSeTNVZEJydUFtbDhTZWlCYWkyOFNpSUpZMldJNWVNMHNEc3dISTExc3FIdVhxSzhRclZRRExwNC1qV1M4LVBubDBvNkRrTnFwaG9NVnlRdGh6bFhzUWo0Uk9mM0hqMHZWUlNMZWhGZjE4dlRXeFlETlQ5Y1p4ZHlUSnp1UmdNMVR1RzBFeGs2Y3E1Q19F0gGoAUFVX3lxTE55Y0lEQW55Q3BxSVBHMVhLNXB5dy1KYlVLYjNsNENMbjJhYkFVMVdHdXRxLWZUSnFzdG9xeFpPSm5PZTVMaDk4ZG1aQ2R3bmxxd0tLR0ZuRU1RSWl2cU9pRE1Bc3NGTXRLT0hRNEpqSHdkOGlBckY1T0xLV2FZYUt0dkpiNzFPOVlIWmdNMExNcW9QZ2Y1VDJCOF82NEdDd1Y1aVRuY0ZtVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "contentType": "text/html",
+      "pageTitle": "Google News",
+      "titleMatchScore": 0.154
+    },
+    "GN-F8A7AC8CDCE7E5": {
+      "recordId": "GN-F8A7AC8CDCE7E5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGs3bDZpNldkSU1ibmpoelM0RmJ2RmZJZ2pjRG1uYVA5Ym5USzhXaVhNakxRV3ladXJOWFNnNkN6ZXlHVlpvSl9XV2Y0VTYzVXJpZHpQS19oM3daX0RMRmFNa21DTl8zdlI4REgwTGF3WThuUVc0a2pUTkhVVDd1UnNORG1peWR5X0o5SVY1NUc0WmZYSW5TY3FoX3phczBfZUlWM3pwV3d3RlJaRnFjTENsTEsyRGk1NTZBMUhjaVAtNm5tVnVNVmhrWm53cGY0NHBTd1F3YXJlc3hxam10MmxoZ1JoMk4ya3U5SU1B0gHzAUFVX3lxTE1HSUtka2F6M25jX1RKYWJrTDAyak42bTB1Q25YSDFTeW05WHY3YkhTc0pENjRlN2k0bnpxUDB4LWM3aFlwUHB2X1VEckd0RlRvcm0xU0RnUTRrcjh0YUJxNF9iSEhOVVlXOHo4aTBQVHJieGdhSkFPLXp1WmRWLW1rZjY4YjBPdnRCUkFuY0NhVTQxMU5UbHE3QVhmSllSdkxiTGpVWllrQV8yeUtZOFR6Ukl4YW8yT1JPUDE3OTJaeExmRXYwZmxDTGx2UXBzWVhaZ2FNWTVOM1U5MWxlWWhmYkFzNWdTTHkwQzFMSHF2VjBrTQ?oc=5",
+      "category": "discovery-link",
+      "displayLabel": "Google News discovery",
+      "explanation": "Google News exposed this item; the publisher article still requires editorial verification.",
+      "checkedAt": "2026-09-28T09:40:18+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGs3bDZpNldkSU1ibmpoelM0RmJ2RmZJZ2pjRG1uYVA5Ym5USzhXaVhNakxRV3ladXJOWFNnNkN6ZXlHVlpvSl9XV2Y0VTYzVXJpZHpQS19oM3daX0RMRmFNa21DTl8zdlI4REgwTGF3WThuUVc0a2pUTkhVVDd1UnNORG1peWR5X0o5SVY1NUc0WmZYSW5TY3FoX3phczBfZUlWM3pwV3d3RlJaRnFjTENsTEsyRGk1NTZBMUhjaVAtNm5tVnVNVmhrWm53cGY0NHBTd1F3YXJlc3hxam10MmxoZ1JoMk4ya3U5SU1B0gHzAUFVX3lxTE1HSUtka2F6M25jX1RKYWJrTDAyak42bTB1Q25YSDFTeW05WHY3YkhTc0pENjRlN2k0bnpxUDB4LWM3aFlwUHB2X1VEckd0RlRvcm0xU0RnUTRrcjh0YUJxNF9iSEhOVVlXOHo4aTBQVHJieGdhSkFPLXp1WmRWLW1rZjY4YjBPdnRCUkFuY0NhVTQxMU5UbHE3QVhmSllSdkxiTGpVWllrQV8yeUtZOFR6Ukl4YW8yT1JPUDE3OTJaeExmRXYwZmxDTGx2UXBzWVhaZ2FNWTVOM1U5MWxlWWhmYkFzNWdTTHkwQzFMSHF2VjBrTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "contentType": "text/html",
+      "pageTitle": "Google News",
+      "titleMatchScore": 0.137
     }
   }
 }
