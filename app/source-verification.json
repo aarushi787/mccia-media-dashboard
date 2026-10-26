@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:45:58+00:00",
+  "generatedAt": "2026-10-26T08:48:11+00:00",
   "methodology": "Automated URL reachability and page-title agreement audit. This does not replace editorial review of article contents.",
   "summary": {
     "totalRecords": 7,
@@ -46,7 +46,7 @@
       "category": "discovery-link",
       "displayLabel": "Google News discovery",
       "explanation": "Google News exposed this item; the publisher article still requires editorial verification.",
-      "checkedAt": "2026-09-21T08:51:20+00:00",
+      "checkedAt": "2026-10-26T08:48:11+00:00",
       "httpStatus": 200,
       "finalUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa00yVDlZb2ZoVGx6WWs0OWVqc1hCeHgzQ0paYVRva0g3aE1sNXh2ZXp1c0xzVnhXWDk1al9Ed2ZmX1RQSzlSQUZzc3hQbWJ1ZlB0SmZ1RnpOVHYwQWdEemhrOTB4QVNiblpwQ2R4OFdNMU96UHJBTUJPNWhBVDF0aktEaXJyVlltZkFj?oc=5&hl=en-US&gl=US&ceid=US:en",
       "contentType": "text/html",
